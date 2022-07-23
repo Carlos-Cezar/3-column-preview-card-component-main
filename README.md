@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/Carlos-Cezar/fem-nft-preview-card-component)
+- [Solution URL](https://github.com/Carlos-Cezar/3-column-preview-card-component-main)
 - [Live Site URL](https://carlos-cezar.github.io/fem-nft-preview-card-component/)
 
 ## My process

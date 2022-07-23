@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/Carlos-Cezar/3-column-preview-card-component-main)
-- [Live Site URL](https://carlos-cezar.github.io/3-column-preview-card-component-main/)
+- [Live Site URL](https://carlos-cezar.github.io/fem-3-column-preview-card-component-main/)
 
 ## My process
 

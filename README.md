@@ -49,4 +49,4 @@ Users should be able to:
 
 - Website - [Carlos-Cezar](https://github.com/Carlos-Cezar)
 - Frontend Mentor - [@Carlos-Cezar](https://www.frontendmentor.io/profile/Carlos-Cezar)
-- Instagram - [@motta.2k](www.instagram.com/motta.2k/?theme=dark)
+- Instagram - [@motta.2k](https://www.instagram.com/motta.2k/)
